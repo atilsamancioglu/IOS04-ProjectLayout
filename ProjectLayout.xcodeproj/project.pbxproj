@@ -13,6 +13,7 @@
 		FC5CE5B222D87536008CF0DA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC5CE5B022D87536008CF0DA /* Main.storyboard */; };
 		FC5CE5B422D87537008CF0DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC5CE5B322D87537008CF0DA /* Assets.xcassets */; };
 		FC5CE5B722D87537008CF0DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC5CE5B522D87537008CF0DA /* LaunchScreen.storyboard */; };
+		FC5CE5BF22D87630008CF0DA /* metallica.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC5CE5BE22D87630008CF0DA /* metallica.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FC5CE5B322D87537008CF0DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC5CE5B622D87537008CF0DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC5CE5B822D87537008CF0DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC5CE5BE22D87630008CF0DA /* metallica.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = metallica.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		FC5CE5A922D87536008CF0DA /* ProjectLayout */ = {
 			isa = PBXGroup;
 			children = (
+				FC5CE5BE22D87630008CF0DA /* metallica.jpg */,
 				FC5CE5AA22D87536008CF0DA /* AppDelegate.swift */,
 				FC5CE5AC22D87536008CF0DA /* SceneDelegate.swift */,
 				FC5CE5AE22D87536008CF0DA /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC5CE5BF22D87630008CF0DA /* metallica.jpg in Resources */,
 				FC5CE5B722D87537008CF0DA /* LaunchScreen.storyboard in Resources */,
 				FC5CE5B422D87537008CF0DA /* Assets.xcassets in Resources */,
 				FC5CE5B222D87536008CF0DA /* Main.storyboard in Resources */,
